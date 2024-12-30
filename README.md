@@ -1,1 +1,1 @@
-Hello everybody, it's my first landing pade.
+See that project on Vercel - https://landing-page-first-mauve.vercel.app/
